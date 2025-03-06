@@ -3,7 +3,6 @@ package at.aau.serg.controllers
 import at.aau.serg.models.GameResult
 import at.aau.serg.services.GameResultService
 import org.junit.jupiter.api.BeforeEach
-import org.junit.jupiter.api.Disabled
 import org.mockito.Mockito.mock
 import org.mockito.Mockito.verify
 import kotlin.test.Test
